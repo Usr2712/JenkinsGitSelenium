@@ -23,8 +23,6 @@ public class DriverInitialization {
             System.out.println("Edge");
 
 
-
-
     }
 
     public static  WebDriver Passbrowser() {

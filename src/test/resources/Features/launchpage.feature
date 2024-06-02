@@ -10,9 +10,9 @@ Feature: Launch Application form page
     And user Enter the details
     And Completes the order placing
   Examples:
-    | Brand             |
-    | Samsung galaxy s6 |
-  #  | Nokia lumia 1520  |
+    | Brand |
+   # | Samsung galaxy s6 |
+    | Nokia lumia 1520  |
   #  | Nexus 6           |
     #| Samsung galaxy s7 |
   #  | Iphone 6 32gb     |
